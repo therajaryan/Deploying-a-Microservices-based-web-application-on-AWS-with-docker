@@ -115,7 +115,7 @@ class App extends Component {
         console.log(data);
 
         data = Base64.encode(JSON.stringify(data));
-        fetch('http://192.168.1.100:5000/insert/user/' + data, {
+        fetch('http://minor-project.s3-website.ap-south-1.amazonaws.com' + data, {
                 headers: {
                     'Content-Type': 'application/json',
                 }
