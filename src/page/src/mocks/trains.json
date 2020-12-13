@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Delhi - Mumbai",
+    "category": "Express",
+    
+    "isActive": false
+  },
+  {
+    "title": "Delhi - Nagpur",
+    "category": "Passanger train",
+    
+    "isActive": false
+  },
+  {
+    "title": "Delhi - Agra",
+    "category": "Express",
+
+    "isActive": false
+  },
+  {
+    "title": "Delhi - Meerut",
+    "category": "RRTS",
+    
+    "isActive": false
+  },
+  {
+    "title": "Delhi - Jaipur",
+    "category": "Goods Train",
+    
+    "isActive": false
+  }
+]

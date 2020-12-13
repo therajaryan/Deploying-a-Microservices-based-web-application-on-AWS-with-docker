@@ -1,0 +1,27 @@
+.Trains {
+    padding: 0.1px;
+}
+
+.Trains>.title {
+    margin: 20px 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Trains>.filters {
+    display: flex;
+}
+
+.Trains>.filters>.filter {
+    padding: 5px 20px;
+    margin: auto;
+}
+
+.Trains>.filters>.filter.active {
+    background: blue;
+    color: white;
+}
+
+.Trains>.trains>.train {
+    margin: 20px;
+}

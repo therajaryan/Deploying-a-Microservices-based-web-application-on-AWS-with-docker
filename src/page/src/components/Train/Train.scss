@@ -1,0 +1,20 @@
+.Train {
+    >.details {
+        display: flex;
+        align-items: flex-end;
+        margin-bottom: 10px;
+        >.picture {
+            width: 100px;
+            height: 100px;
+            background: rgba(black, 0.2);
+        }
+        >.metadata {
+            padding-left: 10px;
+        }
+    }
+    >.day-picker {
+        .DayPicker {
+            overflow: hidden;
+        }
+    }
+}

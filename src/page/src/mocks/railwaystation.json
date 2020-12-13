@@ -1,0 +1,25 @@
+[{
+        "name": "Hazrat Nizzamuddin station",
+        "times": ["09.30am", "11.00am", "12.30am", "02.00pm", "03.30pm", "05.30pm", "07.30pm", "09.30pm"]
+    },
+    {
+        "name": "New Delhi Railway station",
+        "times": ["09.30am", "11.00am", "12.30am", "02.00pm", "03.30pm", "05.30pm", "07.30pm", "09.30pm"]
+    },
+    {
+        "name": "Jewar station",
+        "times": ["09.30am", "11.00am", "12.30am", "02.00pm", "03.30pm", "05.30pm", "07.30pm", "09.30pm"]
+    },
+    {
+        "name": "Soup village station",
+        "times": ["09.30am", "11.00am", "12.30am", "02.00pm", "03.30pm", "05.30pm", "07.30pm", "09.30pm"]
+    },
+    {
+        "name": "B-roLL station",
+        "times": ["09.30am", "11.00am", "12.30am", "02.00pm", "03.30pm", "05.30pm", "07.30pm", "09.30pm"]
+    },
+    {
+        "name": "Paratha street station",
+        "times": ["09.30am", "11.00am", "12.30am", "02.00pm", "03.30pm", "05.30pm", "07.30pm", "09.30pm"]
+    }
+]

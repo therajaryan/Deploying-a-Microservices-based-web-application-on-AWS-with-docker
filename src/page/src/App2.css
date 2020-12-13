@@ -1,0 +1,10 @@
+.App {
+  width: 700px;
+  max-width: 100%;
+  height: 650px;
+  margin: 25px auto;
+  overflow: scroll;
+  overflow-x: hidden;
+  background: rgba(160, 218, 235, 0.541);
+  box-shadow: 0 0 10px rgba(241, 11, 11, 0.3); }
+  
