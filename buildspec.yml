@@ -3,6 +3,8 @@ version: 0.2
 phases:
   install:
     commands:
+      - apt install curl
+      - apt install bash
       - echo Installing Node 14...
       - curl -sL https://deb.nodesource.com/setup_14.x | bash -
       - apt install -y nodejs
