@@ -12,7 +12,7 @@ export default class Train extends Component {
         }
     }
 
-    componentWillUpdate() {
+    UNSAFE_componentWillUpdate() {
         if (!this.props.train.isActive) {
             this.animateDayPickerSize();
         }
